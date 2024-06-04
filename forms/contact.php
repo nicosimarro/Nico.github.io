@@ -23,8 +23,8 @@
   // Configuración SMTP
   $contact->smtp = array(
     'host' => 'smtp.sendpulse.com',
-    'username' => 'jesusmoren93@gmail.com',
-    'password' => 'Susej993!!',
+    'username' => 'example@gmail.com',
+    'password' => 'pass',
     'port' => 587
   );
 
